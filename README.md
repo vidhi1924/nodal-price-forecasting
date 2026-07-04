@@ -55,3 +55,5 @@ python final_model.py            # refined model with cyclical hour features
 - `generate_and_analyze.py` — data simulation, feature engineering, baseline model, spike detection
 - `final_model.py` — refined baseline model with cyclical hour encoding
 - `price_forecast_analysis.png`, `final_forecast.png` — output visualizations
+
+📝 Read the full writeup: [Why I Stopped Trying to Predict Electricity Price Spikes](https://medium.com/@shahvidhijayesh/why-i-stopped-trying-to-predict-electricity-price-spikes-and-built-something-better-instead-f2e95f102f91?sharedUserId=shahvidhijayesh)
