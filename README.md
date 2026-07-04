@@ -1,5 +1,5 @@
 # Nodal Electricity Price Forecasting & Volatility Detection
-📝 Read the full writeup: [Why I Stopped Trying to Predict Electricity Price Spikes] https://medium.com/@shahvidhijayesh/why-i-stopped-trying-to-predict-electricity-price-spikes-and-built-something-better-instead-f2e95f102f91?sharedUserId=shahvidhijayesh
+📝 Read the full writeup: [Why I Stopped Trying to Predict Electricity Price Spikes](https://medium.com/@shahvidhijayesh/why-i-stopped-trying-to-predict-electricity-price-spikes-and-built-something-better-instead-f2e95f102f91?sharedUserId=shahvidhijayesh)
 
 Python pipeline that forecasts baseline nodal electricity prices and separately
 flags volatility/price-spike events — modeled on real-world nodal market behavior
